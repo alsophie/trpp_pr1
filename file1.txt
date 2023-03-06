@@ -1,8 +1,8 @@
-Digital Subscriber Line (DSL) is a high-speed Internet connection, 
+DSL is a high-speed Internet connection, 
 which utilizes the standard telephone lines, but allows digital signals to 
 be carried rather than analogue.
 The most commonly installed DSL technology for Internet access
-is ADSL (Asymmetric Digital Subscriber Line). It is asymmetric because 
+is ADSL. It is asymmetric because 
 the download speed is faster than upload speed. DSL-based services are a 
 low-cost option when compared to other solutions offering similar 
 bandwidth, so they can be made available to customers at extremely 
