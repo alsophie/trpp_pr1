@@ -1,0 +1,32 @@
+Digital Subscriber Line (DSL) is a high-speed Internet connection, 
+which utilizes the standard telephone lines, but allows digital signals to 
+be carried rather than analogue.
+The most commonly installed DSL technology for Internet access
+is ADSL (Asymmetric Digital Subscriber Line). It is asymmetric because 
+the download speed is faster than upload speed. DSL-based services are a 
+low-cost option when compared to other solutions offering similar 
+bandwidth, so they can be made available to customers at extremely 
+competitive prices.
+A dial-up connection to the Internet is set up by dialing a phone number, hence the 
+name. Since the same frequency is used to carry voice and data signals 
+over the copper telephone wire, only one service can be provided at a time.
+Cable Internet is a form of broadband Internet access that uses the 
+infrastructure of cable TV networks to provide Internet services. 
+A cable connection is highly reliable and is not subject to outages 
+due to storms, like satellite Internet. However, since residential cable 
+Internet access is provided through shared bandwidth, the speed can be 
+slower during peak usage hours when a lot of Internet users are online. 
+This does not happen with a DSL network, where each subscriber has their own dedicated line.
+Fiber-optic Internet uses fiber-optic cables instead of copper wires 
+and it is incredibly fast. Those cables send data to and from a computer 
+by harnessing the power of light and can carry data over long distances 
+with low attenuation and distortion of the light signal.
+The three wireless technologies widely used today are Wi-Fi, 
+cellular and satellite Internet. Wi-Fi uses radio waves to wirelessly 
+connect devices and is commonly applied for local area networking.
+Satellite Internet Access can provide high-speed Internet where the conventional 
+cable or DSL is either not available or not functioning well. To get access 
+to the Internet, one needs a satellite dish for two-way (upload and 
+download) data communications and a modem.
+A cellular network is a communication network distributed over 
+land areas called "cells". 

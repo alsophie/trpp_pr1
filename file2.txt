@@ -1,0 +1,28 @@
+The World Wide Web (WWW), is an information system accessible through 
+the Internet where documents and other web resources are identified by 
+a Uniform Resource Locator (URL). The Web is a hypertext-based system . 
+You can click on keywords or buttons that take you to other pages or other websites. 
+This is possible because browsers understand Hypertext Markup Language.
+English scientist Tim Berners-Lee invented the World Wide Web in 1989.
+
+Although the format of an email message is rigidly defined, different email protocols transfer 
+and store messages in slightly different ways.
+Simple Mail Transfer Protocol (SMTP) is used for sending email over the 
+Internet. Email clients (such as Outlook, Mail.ru, Gmail, Yandex) use 
+SMTP to transfer messages to the mail server and the mail server uses 
+SMTP to relay that message to the correct receiving server. Once a 
+message has been delivered, it can't be recalled or cancelled.
+Post Office Protocol (POP) allows you to download email messages on 
+your local computer and read them even when you are offline.
+When you use POP3 to connect to your email account, messages are 
+downloaded locally and removed from the email server. This means that 
+if you access your account from multiple devices, that may not be the  best option.
+Internet Mail Access Protocol (IMAP) is similar in operation to POP3, but 
+allows you more choice over what messages you download. Initially, only 
+message headers are retrieved, giving information about the sender and 
+subject. You can then download just those messages you want to read and 
+delete individual messages from the server. Another great advantage of 
+IMAP over POP3 is the opportunity to organize your mail into folders. 
+IMAP is more suitable for you if you’re going to access your email from 
+different devices (your desktop PC, tablet, smartphone) or if your 
+messages are managed by multiple users.
