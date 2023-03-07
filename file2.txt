@@ -5,6 +5,8 @@ You can click on keywords or buttons that take you to other pages or other websi
 This is possible because browsers understand Hypertext Markup Language.
 English scientist Tim Berners-Lee invented the World Wide Web in 1989.
 
+Although the format of an email message is rigidly defined, different email protocols transfer 
+and store messages in slightly different ways.
 Simple Mail Transfer Protocol (SMTP) is used for sending email over the 
 Internet. Email clients (such as Outlook, Mail.ru, Gmail, Yandex) use 
 SMTP to transfer messages to the mail server and the mail server uses 
