@@ -8,7 +8,8 @@ low-cost option when compared to other solutions offering similar
 bandwidth, so they can be made available to customers at extremely 
 competitive prices.
 A dial-up connection to the Internet is set up by dialing a phone number, hence the 
-name. 
+name. Since the same frequency is used to carry voice and data signals 
+over the copper telephone wire, only one service can be provided at a time.
 Cable Internet is a form of broadband Internet access that uses the 
 infrastructure of cable TV networks to provide Internet services. 
 A cable connection is highly reliable and is not subject to outages 
